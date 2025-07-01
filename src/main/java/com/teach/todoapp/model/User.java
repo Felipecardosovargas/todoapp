@@ -1,9 +1,8 @@
 package com.teach.todoapp.model;
 
 import jakarta.persistence.*;
-import lombok.Data;
-
 import java.util.List;
+import lombok.Data;
 
 @Entity
 @Table(name = "users")
